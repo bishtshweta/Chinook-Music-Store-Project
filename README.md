@@ -1,4 +1,6 @@
 🎵 Chinook Music Store Project
+
+
 📋 Overview:
 This project delves into the Chinook Music Store database using SQL to uncover insights into sales trends, customer behavior, and revenue performance. Advanced SQL techniques, including Common Table Expressions (CTEs) and window functions, were employed to identify business opportunities and provide actionable recommendations for growth.
 
